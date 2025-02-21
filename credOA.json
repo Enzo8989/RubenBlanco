@@ -1,0 +1,13 @@
+{
+    "installed": {
+        "client_id": "513814766648-h0dmkav2t35ce00hf7ucr8tbf8gqrn91.apps.googleusercontent.com",
+        "project_id": "inner-autonomy-448816-i5",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost"
+        ]
+    }
+}

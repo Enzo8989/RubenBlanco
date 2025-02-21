@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inner-autonomy-448816-i5",
+  "private_key_id": "2740c2512ccc0f34e5f2434472d7392a87a60e5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyUzCl5KFRPRaQ\n+GGn3Ct64iDfgSN2oeSwQqV2FfSE0HoWGSdlPLaNU3PHWxOxo+KWXXuJSOGLJZ51\nvIQ5WfHiV4mowhGbkWB1OZgntTUgQtMCV4hEbiI787pJlmY26zWMe1oUMN3v/+Fv\ng/ZlDq+VCDcc0rzP126qbbJi05yCn0co1hQJW+E+lSmUB60rA3lehb+y4NLtvmmP\nMl//2vdY4Yt7/egYPFBJ4tfgOv0+hV6Etb0jnG2qglzcWFJqa3QPooP23RzxaE/d\nWvgdLjLDbLzwE8VdEY3dhj9JhTlCenfxQ/gKiRDPrHEoOKJs6Y/CvcvA/5cUijpn\nrSKHAI2ZAgMBAAECggEAM4PVz27TbWkU3k9qwrfXdbninj6rtIdDTeoK66ifCUlC\no6SjnVrjL8OWdFZqw4whFqgt2nSL94soEkIh/oFt36HDOlXKCWN/do3rVzlBfi7f\nz1LjIkWgrSoVPFHu+FmNkCZIWQHe84i7ot//66TI82g6p6B3fCFzrldfS65vDcqj\nKfTdmbPBvwjnAIqpryOVM80uB9/80oDbMkOra4innE97b+zLTTKVaSg3omqY24q9\nuu8Ufyt88jHi2VVDDo5DtzV3eOSQJqwKMTtHQTwhPSOEwZCOf0XG8UNXU8gq92uG\nx9doLEa0w0CVX64gg9uEJWTOVXqLu3gR4ZLQ1sGHYwKBgQDYiXJH0VcjEqxkxJfL\nQAiaxVDJe4fdZSL0vJRI+5U1rIZqf/Z6zXO71JqfEnYOlzHCRDBIkv/IjRmhp09q\ndVxo+goLr8U03atnfKIJLYbNIuBVrXLnHCQAlFAOGM5AdP1VPGlh02n9lFKTi3Ko\nsQSaO2a0lbAHNG9xLQjXfNAOawKBgQDS0vYWpfH+5WQ3AIML5hTcRHz14J5xz9gS\nTv+4lAcU1s5gvZwPtxSeK5SKkxhrHMgd2T616zNsk/14OW9Cn3SFKKijrXWHxbAe\nNfzFokVIoghItqyhmPUYF7mg+r4rOVhMuGFnqFVpYRlYVregV5HM6tqc+6lwI8Uf\nB3rL0B2NCwKBgQCm0i1C+xqAoNBDydmP8sMuSbmVoB/qBxLJLcen+nrXoRTlU7RW\no5X4LTD6QETHtN/W5KW2I9n/bgVDLxzVzZjmH0xB+KabtfNphPFo1LQ3shjWqQwO\n1PU/pQOP+LhdnEPXuPUPMstDW1PK6/Hn2IjNMdpMYc39nv4EWUeojDXWBQKBgFx/\ndr1FHcHqP2fqb5S+5BQocHMolBv3RyPxST1gpSK9hFrplhlHCGLFWCzckPAd9qcx\n89O5WByhaapf+LLQZz0tM6BssI5bbAQ1R6wmoCNYBC5zB5b3F0H01tsMaHdqd5Vh\nqErkjmTn10js8zAEe9HekQAjYpny97+/dl8J9o01AoGBAKg3TWQFlcY0/6FQEXeF\nBlbbZhEIrFcuAN61FWllnXuUE/1ECvq+y6QzJAgMhvQG3FBCD3eTuMdQUaGPm5o4\n1QK6EwoTwnHT0Og4kf3CbBwL5bj5wGO/auaswUJTBFW+P4jgTxeq0j2kc+KOPXzz\n2bVJrK7B1Zh/828/5tJe708D\n-----END PRIVATE KEY-----\n",
+  "client_email": "matola@inner-autonomy-448816-i5.iam.gserviceaccount.com",
+  "client_id": "110417835531115255180",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/matola%40inner-autonomy-448816-i5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
